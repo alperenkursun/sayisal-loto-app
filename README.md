@@ -1,5 +1,5 @@
-# e-commerce-project
+# sayisal-loto-app
 
-HTML - CSS - BOOTSRAP Responsive Project
+HTML - BOOTSTRAP - VANILLA JS App
 
-![ecpimg](ecommerce.png)
+![slaimg](sayisalloto.png)
